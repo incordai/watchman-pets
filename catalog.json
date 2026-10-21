@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "grid": {
+    "columns": 8,
+    "rows": 9,
+    "frameWidth": 192,
+    "frameHeight": 208
+  },
+  "pets": [
+    {
+      "id": "doro",
+      "displayName": "Doro",
+      "description": "A tiny white chibi pet with pink hair, purple eyes, and a side rose ribbon.",
+      "sheet": "pets/doro/spritesheet.webp",
+      "sha256": "19fc33bd9db76740749bb02ec0fbdeeaac755706fb581e093326fcdb0d9a3abe",
+      "bytes": 2387612
+    },
+    {
+      "id": "goku",
+      "displayName": "Goku",
+      "description": "A cute compact web pet based on a spiky-haired orange-gi martial arts hero.",
+      "sheet": "pets/goku/spritesheet.webp",
+      "sha256": "0a5c53719aab3b30cd1f749cd77d8045903e67f2886a5e26b3aabf0e7dc050bb",
+      "bytes": 1903110
+    },
+    {
+      "id": "guga",
+      "displayName": "咕嘎",
+      "description": "A rounder and cuter chibi penguin hoodie girl pet with a softer face and friendlier proportions.",
+      "sheet": "pets/guga/spritesheet.webp",
+      "sha256": "1b61ea2af98717b9ebe55beb4c6b820b89e9c42d4fdfeca21cf63ed3ad4e38da",
+      "bytes": 1945586
+    },
+    {
+      "id": "hutao",
+      "displayName": "胡桃",
+      "description": "胡桃是《原神》中的五星火元素角色，使用长柄武器，是璃月「往生堂」第七十七代堂主。她性格古灵精怪、活泼俏皮，喜欢作诗和恶作剧，但对生死有着成熟豁达的理解。外形以黑红服饰、礼帽和梅花装饰为特色，神秘又可爱。",
+      "sheet": "pets/hutao/spritesheet.webp",
+      "sha256": "95e0a36dc72331dca2e2c02eb499eb5b94a9808643ef00032ad2056b08f12408",
+      "bytes": 2266412
+    },
+    {
+      "id": "ikkun",
+      "displayName": "ikkun",
+      "description": "灰色刘海、圆眼红腮、穿黑色背带裤和白色背带的团雀风数字宠物。.",
+      "sheet": "pets/ikkun/spritesheet.webp",
+      "sha256": "6a5869481e2a05f2330109d25ea433ffa8194f45fa8486ec36ecc6216b2bcd5f",
+      "bytes": 2384022
+    },
+    {
+      "id": "ikun-gaara",
+      "displayName": "ikun-gaara",
+      "description": "A compact ninja duck pet with silver hair, red cheeks, black outfit, backpack straps, and open-toe sandals based on the provided reference art.",
+      "sheet": "pets/ikun-gaara/spritesheet.webp",
+      "sha256": "d3f534d330ee0a3b7af8ed192c328375941c0d3d27186f683f1454b695b4e229",
+      "bytes": 1694106
+    },
+    {
+      "id": "ikun-giegie",
+      "displayName": "ikun-giegie",
+      "description": "A sporty yellow duck web pet with silver bangs, round glasses, red cheeks, black athletic outfit, high-top sneakers, and a woven backpack.",
+      "sheet": "pets/ikun-giegie/spritesheet.webp",
+      "sha256": "604e47d1bcd952f0ed7a94d8c06064b33903fe11f21d211977bd3b497d2a2f67",
+      "bytes": 1960850
+    },
+    {
+      "id": "ikunchick",
+      "displayName": "ikunchick",
+      "description": "A tiny basketball chick digital pet based closely on the provided IKun chick reference.",
+      "sheet": "pets/ikunchick/spritesheet.webp",
+      "sha256": "3de0b3a5beb84a081f0ccc7438381a153c8c592eb49a9c941cef174a91b32467",
+      "bytes": 2038000
+    },
+    {
+      "id": "kimlet-hover-clap",
+      "displayName": "Kimlet Hover Clap",
+      "description": "A chibi digital pet inspired by Kim Jong Un with a round face, high-fade hairstyle, dark buttoned suit, and a clapping hover animation.",
+      "sheet": "pets/kimlet-hover-clap/spritesheet.webp",
+      "sha256": "03ee88189e7068845bc7529546edb4776a3378b151fb302d6126d7451533e4b3",
+      "bytes": 1535118
+    },
+    {
+      "id": "mini-elon",
+      "displayName": "Mini Elon",
+      "description": "What did you get done today?",
+      "sheet": "pets/mini-elon/spritesheet.webp",
+      "sha256": "76bd82d615adb1047308b06994abaa8db8a7a9535e077be62c7cdb8d38e98c57",
+      "bytes": 1839622
+    },
+    {
+      "id": "nimbus",
+      "displayName": "Nimbus",
+      "description": "A tiny chibi martial-arts kid riding a golden cloud companion.",
+      "sheet": "pets/nimbus/spritesheet.webp",
+      "sha256": "224a0b869f364a0b9dba0094947f69160d13c492ea84d830e8528e8097458723",
+      "bytes": 2243488
+    },
+    {
+      "id": "shinchan",
+      "displayName": "Shinchan",
+      "description": "A tiny mischievous kindergarten-boy companion in a red shirt and yellow shorts.",
+      "sheet": "pets/shinchan/spritesheet.webp",
+      "sha256": "76ad7113c0e6ddebc2f2f120621fe96a034676bbb324ffdce6307ef8b6868c70",
+      "bytes": 1821064
+    },
+    {
+      "id": "trump",
+      "displayName": "Trump",
+      "description": "A small smooth-edged digital pet caricature inspired by Donald Trump.",
+      "sheet": "pets/trump/spritesheet.webp",
+      "sha256": "2414c00f88bc5d4ec666d0e34a1c840e402f94e332bc6411c557b6fbb60a999b",
+      "bytes": 428874
+    },
+    {
+      "id": "usagi",
+      "displayName": "Usagi",
+      "description": "A round cream bunny web pet with long upright ears, blush cheeks, tiny paws, and a cute catlike mouth.",
+      "sheet": "pets/usagi/spritesheet.webp",
+      "sha256": "cd31c05b2332a0e5f19bce71093cdfeb31a278438c6c8bf24ca2e79754ce8728",
+      "bytes": 1519682
+    }
+  ]
+}
