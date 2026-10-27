@@ -118,6 +118,30 @@
       "sheet": "pets/usagi/spritesheet.webp",
       "sha256": "cd31c05b2332a0e5f19bce71093cdfeb31a278438c6c8bf24ca2e79754ce8728",
       "bytes": 1519682
+    },
+    {
+      "id": "dario",
+      "displayName": "Dario",
+      "description": "A small smooth-edged digital pet caricature inspired by Dario Amodei CEO of Anthropic.",
+      "sheet": "pets/dario/spritesheet.webp",
+      "sha256": "c08cc14b1d46cb1b88ba202a5fdd235be5c36111ef88e353c2bbef9d3dcd70b1",
+      "bytes": 519326
+    },
+    {
+      "id": "mark",
+      "displayName": "Mark",
+      "description": "A small smooth-edged digital pet caricature inspired by Mark Zuckerberg CEO of Meta.",
+      "sheet": "pets/mark/spritesheet.webp",
+      "sha256": "2629516390a1720a2b23ef8f049672607bbd1954786ab3a8e6c902caf2ea03d8",
+      "bytes": 512674
+    },
+    {
+      "id": "sundar",
+      "displayName": "Sundar",
+      "description": "A small smooth-edged digital pet caricature inspired by Sundar Pichai CEO of Google.",
+      "sheet": "pets/sundar/spritesheet.webp",
+      "sha256": "78d6f12396476a047b969d049f12c803041bc2355d939fdcb092672512016671",
+      "bytes": 498298
     }
   ]
 }
