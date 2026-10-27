@@ -1,1 +1,6 @@
-
+{
+  "id": "mark",
+  "displayName": "Mark",
+  "description": "A small smooth-edged digital pet caricature inspired by Mark Zuckerberg.",
+  "spritesheetPath": "spritesheet.webp"
+}
